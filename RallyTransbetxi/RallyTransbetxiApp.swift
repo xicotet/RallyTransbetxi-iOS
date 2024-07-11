@@ -11,7 +11,7 @@ import SwiftUI
 struct RallyTransbetxiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RallyScreen()
         }
     }
 }
